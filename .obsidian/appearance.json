@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "color-extend",
+    "extended-colorschemes",
+    "custom-rainbow-colors"
+  ],
+  "baseFontSize": 21
+}

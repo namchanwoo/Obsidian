@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "e83793c5a176b0d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bb063ff1eb3e435",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9225536c8ee94ac1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Lyra/Lyra.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Lyra.excalidraw"
+            }
+          },
+          {
+            "id": "97cf231820799147",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Lyra/ULyraCameraComponent.canvas",
+                "viewState": {
+                  "x": 656.3932520105986,
+                  "y": 1091.9120936366887,
+                  "zoom": -0.3333333333333334
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "ULyraCameraComponent"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fcc6992b77aa6c76",
+    "type": "split",
+    "children": [
+      {
+        "id": "4df93eb4712c58c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "511125ffa8921c7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "2a65486f87d08316",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "dba235a6fbe128e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "989652c70251e562",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6220f60e5a612cf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec25eb97c0ace13e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e196c2a4009cbac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lyra/Lyra.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Lyra.excalidraw의 백링크"
+            }
+          },
+          {
+            "id": "83a36fefd0d9dec8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lyra/Lyra.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Lyra.excalidraw의 나가는 링크"
+            }
+          },
+          {
+            "id": "6587730fdc180744",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fdd7ff17cc9572ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lyra/Lyra.excalidraw.md"
+              },
+              "icon": "lucide-list",
+              "title": "Lyra.excalidraw 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "9225536c8ee94ac1",
+  "lastOpenFiles": [
+    "README.md",
+    "sss/Obsidian/README.md",
+    "sss/Obsidian",
+    "sss",
+    "새 폴더",
+    "Lyra/Lyra.excalidraw.md",
+    "Lyra/ULyraCameraComponent.canvas",
+    "Vault.md",
+    "Lyra/무제 파일.md",
+    "Excalidraw/라이라코드.excalidraw.md",
+    "Excalidraw/Excalidraw.md",
+    "Excalidraw/Lyra.md",
+    "Lyra/Lyra.md",
+    "Lyra",
+    "무제 파일 1.md",
+    "Excalidraw/무제 파일.canvas",
+    "Excalidraw/Drawing 2025-01-02 09.59.47.excalidraw.md",
+    "무제 파일.md",
+    "Excalidraw/트러블 슈팅[이벤트 생성 분기점).md",
+    "Pasted Image 20250114171958_257.png",
+    "Pasted Image 20250114171745_471.png",
+    "Pasted Image 20250114170139_090.png",
+    "Tags",
+    "이름 없는 보드.md",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/무제 파일.md",
+    "Excalidraw/Drawing 2025-01-02 09.59.01.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-02 09.59.10.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-27 15.48.26.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-02 09.49.01.excalidraw.md",
+    "머메이드 사용중.md",
+    "Attribute.md",
+    "무제 파일 1.canvas",
+    "Excalidraw/Drawing 2024-12-27 14.43.57.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-27 14.44.17.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-27 14.56.21.excalidraw.md",
+    "Drawing 2024-12-27 14.46.24.excalidraw.md",
+    "Excalidraw"
+  ]
+}
